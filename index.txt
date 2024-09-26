@@ -1,8 +1,6 @@
-<<<<<<< HEAD
 Hola coders
-=======
 Hola coders
 Holi Hackers
 привет!
 Hola Chicos C:
->>>>>>> 4ae335d1073efa9dfe4a58d82acaee43c121973d
+你好

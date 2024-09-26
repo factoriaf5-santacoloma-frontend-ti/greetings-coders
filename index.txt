@@ -9,8 +9,15 @@ ghbf
 Hola, Soy Adrian.
 C:
 Hola, Soy Adrian.
+你好
 today is a god day
 ghbf
 ghbf
 Hola, Soy Adrian.
+<<<<<<< HEAD
 HOLA HOLA AMIGOS LOS QUIERO
+=======
+HOLAjgjjlgkegkemge
+HOLA HOLA AMIGOS LOS QUIERO
+你好
+>>>>>>> 7f0536c4ffd86092ccf88301e176c4fd9a30163e

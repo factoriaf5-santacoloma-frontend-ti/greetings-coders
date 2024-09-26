@@ -3,4 +3,8 @@ Hola coders
 Holi Hackers
 привет!
 Hola Chicos C:
+<<<<<<< HEAD
 你好
+=======
+Hola, Soy Adrian.
+>>>>>>> 0a739b5b1278f21acfcbee2d4edec8d19182cb74
